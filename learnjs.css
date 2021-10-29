@@ -1,0 +1,32 @@
+body{
+    margin: 0;
+    padding: 0;
+   
+}
+
+h1{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+img{
+    width: 40%;
+    height: 100vh;
+    padding-left: 30%;
+}
+
+.output{
+    font-size: 40px;
+    margin-left: 20px;
+}
+input{
+    margin-left: 20px;
+    padding: 5px ;
+    font-size: 20px;
+}
+
+
+button{
+    padding: 5px 15px;
+    font-size: 20px;
+}
